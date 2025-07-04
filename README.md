@@ -9,7 +9,7 @@ The data was meticulously scraped from Amazon product pages.
 It comprises 1,465 product records, consisting of 16 columns of information related to product details (name, category, price, discount, ratings) and customer engagement metrics (user reviews, titles, and content).
 
 ### Tools Used
-Pivot tables and Calculated columns were explicitly used to analyze the data to provide useful insight and draw inference. [Download Here] (https://amazoncasestudyCleared.xlsx)
+Pivot tables and Calculated columns were explicitly used to analyze the data to provide useful insight and draw inference.
 
 ### Data Cleaning and Preparation
 In the process of Data cleaning, I deleted duplicate Product ID, making the product ID distinct for each data record, then initial data processing was performed, resulting to 1,351 unique products. This involved handling missing values or inconsistencies to ensure data readiness for analysis.
