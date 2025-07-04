@@ -2,7 +2,7 @@
 ## Project Title: Amazon Product Review Analysis Report
 ### Project Overview
 This project aimed to conduct a comprehensive exploratory data analysis (EDA) of Amazon product and customer review data.
-The main objective was to generate actionable insights for Retail Tech Insights' e-commerce clients, to specifically enhance product improvement, provide a well refined marketing strategies, and optimize customer engagement.
+The main objective was to generate actionable insights for Retail Tech Insights' e-commerce clients, to specifically enhance product improvement, provide well refined marketing strategies, and optimize customer engagement.
 
 ### Data Source
 The data was meticulously scraped from Amazon product pages. 
@@ -27,7 +27,9 @@ The analysis provides a comprehensive overview of product performance, pricing s
 -	Top Product: A top-performing product identified based on combined rating and reviews is: Electronics > Home Theater, TV & Video > Accessories > Cables.
 
 ### Result Finding
-The analysis highlights categories with high potential revenue and customer interaction such as Electronics, Computer and Accessories as well as areas needing attention, such as products with low review counts or no discounts like Toys and Games, Musical Instruments.
+The analysis highlights categories with high potential revenue and customer interaction such as Electronics, Computer and Accessories.
+
+As well as areas needing attention, such as products with low review counts or no discounts like Toys and Games, Musical Instruments.
 
 ### Recommendation
 Based on these findings, it is recommended that Retail Tech Insights' clients:
@@ -36,3 +38,6 @@ Based on these findings, it is recommended that Retail Tech Insights' clients:
 -	Enhance Engagement for Low-Review Products: Implement strategies to increase reviews for the 310 products with fewer than 1,000 reviews, as higher review counts often correlate with increased sales and visibility.
 -	Leverage High-Discount Appeal: Utilize the high discount percentages in categories like Computers & Accessories and Electronics in marketing campaigns to attract price-sensitive customers.
 -	Deep Insights into Specific Products: Further investigate top-performing products (like the identified Electronics cable) to understand their success factors and replicate them where possible.
+
+### Limitation
+This analysis is based solely on the provided dataset and the specific questions asked. It does not incorporate external market data, competitor analysis, or qualitative insights from customer reviews, which could provide a more holistic understanding.
