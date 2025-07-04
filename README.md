@@ -45,3 +45,18 @@ This analysis is based solely on the provided dataset and the specific questions
 ### Dashboard Picture
 
 ![Dashboard ](https://github.com/user-attachments/assets/1d3b1122-841f-428c-8211-390ed687feed)
+
+### Solution to Questions
+
+![Answer to Question 1-4](https://github.com/user-attachments/assets/967a5d28-2fd2-4a8a-bf07-e120c3861e89)
+
+![Answer to Question 5,6,7,9,10](https://github.com/user-attachments/assets/6d560cc3-cd3e-47df-b937-bb9bb92b623a)
+
+![Answer to Question 7, 12, 13](https://github.com/user-attachments/assets/4cfa67c9-210d-449c-ba90-df6b542e6485)
+
+![Answer to Question 8](https://github.com/user-attachments/assets/010489f2-f395-46a4-843e-fdba4c1dae81)
+
+![Answer to Question 11](https://github.com/user-attachments/assets/47e8b194-9c7c-45b0-848b-9466d0ed9918)
+
+![Answer to Question 14](https://github.com/user-attachments/assets/562f9871-b775-42c9-8ea6-6a2772c94656)
+
