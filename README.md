@@ -41,3 +41,7 @@ Based on these findings, it is recommended that Retail Tech Insights' clients:
 
 ### Limitation
 This analysis is based solely on the provided dataset and the specific questions asked. It does not incorporate external market data, competitor analysis, or qualitative insights from customer reviews, which could provide a more holistic understanding.
+
+### Dashboard Picture
+
+![Dashboard ](https://github.com/user-attachments/assets/1d3b1122-841f-428c-8211-390ed687feed)
